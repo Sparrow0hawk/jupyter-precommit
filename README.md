@@ -31,3 +31,8 @@ specified in `requirements.txt`.
 pip install -r requirements.txt
 ```
 
+To set up pre-commit you should run:
+
+```bash
+pre-commit install
+```
